@@ -4,7 +4,7 @@ I have built `Weather App` By `React JS` and `Tailwind CSS styled components` us
 
 ![](weather.gif)
  
-[**DEMO 🌥️**](https://HamzaZaidiX.github.io/weather-app)
+[**DEMO 🌥️**](https://.github.io/weather-app)
 
 ## 🌥️ Materials used
 - `Tailwind CSS Styled-Components`
@@ -19,7 +19,7 @@ I have built `Weather App` By `React JS` and `Tailwind CSS styled components` us
 * URL: `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}`
 
 ## 🌥️ Icons & Font
-* [Icons & other Assets:](https://github.com/HamzaZaidiX/weather-app/tree/main/public/icons)
+* [Icons & other Assets:](https://github.com/weather-app/tree/main/public/icons)
 * [Font Link:](https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap)
 
 
