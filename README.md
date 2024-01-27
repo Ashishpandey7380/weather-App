@@ -31,4 +31,4 @@ I have built `Weather App` By `React JS` and `Tailwind CSS styled components` us
 
 # Bye! 👋
 
-HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
+😃👍💛
